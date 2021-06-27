@@ -1,1 +1,1 @@
-# k-way_Merge-algorithm-C-
+# an algorithm to sort k sorted arrays, using heap
